@@ -1,4 +1,4 @@
-# SRDT Java Practice Problems
+# SRDT DSA Practice Problems
 
 **Name:** Dhananjay Jaiswal
 <br>
