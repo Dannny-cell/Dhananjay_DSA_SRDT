@@ -1,8 +1,11 @@
 # SRDT Java Practice Problems
 
 **Name:** Dhananjay Jaiswal
-**Roll No:** <202310101110236>
-**Class:** <Btech CS :Core>
+<br>
+**Roll No:** 202310101110236
+<br>
+**Class:** B.Tech CSE (Core)
+<br>
 **Subject:** Focused Group DSA
 
 ## Description
